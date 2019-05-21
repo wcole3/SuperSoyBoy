@@ -1,7 +1,4 @@
 # Super_Soy_Boy
-05/20/2019
-Due to missing meta files the project cannot be opened in Unity, currently fixing this 'small' error
-
 2D platformer that will lead to hair loss
 
 This game is based on the tutorial in "Unity Games by Tutorial" distributed by raywenderlich.com
