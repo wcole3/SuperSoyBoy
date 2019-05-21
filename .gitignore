@@ -1,0 +1,3 @@
+#Ignore metadata and testing level
+metadata/
+testing.json
